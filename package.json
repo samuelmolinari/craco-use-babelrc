@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/jackwilsdon/craco-use-babelrc.git"
   },
-  "dependencies": {
-    "@craco/craco": "^3.2.0"
+  "peerDependencies": {
+    "@craco/craco": "*"
   }
 }
